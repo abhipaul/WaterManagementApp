@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/pauab02/Documents/React/manager/manager/node_modules/react-native/React/Base/RCTParserUtils.m \
+  /Users/pauab02/Documents/React/manager/manager/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/pauab02/Documents/React/manager/manager/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/pauab02/Documents/React/manager/manager/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/pauab02/Documents/React/manager/manager/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/pauab02/Documents/React/manager/manager/node_modules/react-native/React/Base/RCTUtils.h
